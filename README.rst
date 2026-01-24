@@ -5,7 +5,7 @@ Routine to switch a GBA into GBC mode by software!
 
 The source code can be found here:
 
-https://github.com/AntonioND/gba-switch-to-gbc
+https://codeberg.org/SkyLyrac/gba-switch-to-gbc
 
 A video that demonstrates the code is here:
 
@@ -50,7 +50,7 @@ doesn't load garbage in the Nintendo logo like the real GBC or MGB.
 
 To build it, you need devkitPro.
 
-My website: www.skylyrac.net/
+My website: https://www.skylyrac.net
 
 Thanks to:
 
